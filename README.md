@@ -10,11 +10,11 @@
 
 Due to its extreme simplicity, it aims to be the easiest method to access Instagram without a heavy app installed.
 
-My main goal is to make insta viewer a real analytics tool
+My main goal is to make insta viewer a real analytics tool for android devices
 
 # Install
 
-Simply <a href="https://github.com/silviobcc/instaviewer/releases/tag/webview" target="_blank">download</a> apk and use with your credentials.
+Simply <a href="https://github.com/silviobcc/instaviewer/releases/tag/webview" target="_blank">download</a> apk and use it with your credentials.
 
 
 
