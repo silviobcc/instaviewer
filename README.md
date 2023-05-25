@@ -13,7 +13,7 @@ My main goal is to make insta viewer a real analytics tool
 
 # Install
 
-Simply <a href="https://github.com/silviobcc/instaviewer/releases/tag/webview" target="_blank">download</a> .apk and use it.
+Simply <a href="https://github.com/silviobcc/instaviewer/releases/tag/webview" target="_blank">download</a> apk and use with your credentials.
 
 
 
